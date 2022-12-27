@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/Seminar3/bin/Debug/net6.0/Seminar3
+/Users/user/Documents/GitHub/Seminar3/bin/Debug/net6.0/Seminar3.deps.json
+/Users/user/Documents/GitHub/Seminar3/bin/Debug/net6.0/Seminar3.runtimeconfig.json
+/Users/user/Documents/GitHub/Seminar3/bin/Debug/net6.0/Seminar3.dll
+/Users/user/Documents/GitHub/Seminar3/bin/Debug/net6.0/Seminar3.pdb
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/Seminar3.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/Seminar3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/Seminar3.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/Seminar3.AssemblyInfo.cs
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/Seminar3.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/Seminar3.dll
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/refint/Seminar3.dll
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/Seminar3.pdb
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/Seminar3.genruntimeconfig.cache
+/Users/user/Documents/GitHub/Seminar3/obj/Debug/net6.0/ref/Seminar3.dll
